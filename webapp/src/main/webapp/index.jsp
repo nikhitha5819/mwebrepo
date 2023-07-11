@@ -1,16 +1,10 @@
 <center>
  
-<h2> Welcome To Maven Job </h2>
+<h2> Welcome To Maven Build Tool</h2>
 
-<h2> deployed artifact into tomcat server using jenkins scripted pipeline</h2>
+<h2>Generating Artifact from Maven custom Project </h2>
 
-<h2> Here we are working with jenkins Maven job </h2>
-
- <h2> This is to test webhook hook integration </h2>
-
- <h2> Here we are deploying maven artifact to Tomcat Server </h2>
-
- ===========================================================================
+  ===========================================================================
 
 
 
