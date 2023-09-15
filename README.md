@@ -1,8 +1,6 @@
 # maven-project
 
-This is a tokenized webhook integration demo
-
-Now This repo is going to trigger Jenkins Job
+now this repo is going to trriger job
 
 Simple Maven Project
 
